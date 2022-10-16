@@ -1,4 +1,4 @@
-package singley_LinkedList;
+package singleyLinkedList;
 
 /**
  * 
